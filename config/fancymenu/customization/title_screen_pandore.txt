@@ -358,9 +358,9 @@ element {
   sticky_anchor = false
   anchor_point = mid-centered
   x = -150
-  y = -95
+  y = -107
   width = 300
-  height = 66
+  height = 77
   stay_on_screen = true
   element_loading_requirement_container_identifier = 2f0531ea-21bc-44ee-b5e8-c739fe15607a-1786963165802
   [loading_requirement_container_meta:2f0531ea-21bc-44ee-b5e8-c739fe15607a-1786963165802] = [groups:][instances:]
