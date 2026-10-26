@@ -1,0 +1,13 @@
+name = "Fancy's GUI Overhaul"
+filename = "Fancy's GUI Overhaul 1.21.X.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/48v6qzq6/versions/jOWUQGZI/Fancy%27s%20GUI%20Overhaul%201.21.X.zip"
+hash-format = "sha512"
+hash = "ae39e392e2f86d3d7506575301b00520390b6f2aed3c05782fd305a6c28dd84751c85b8fa5ad8e577f511e9a53349d6c78bae8a84ef5fedaee5f0096d9b724b0"
+
+[update]
+[update.modrinth]
+mod-id = "48v6qzq6"
+version = "jOWUQGZI"

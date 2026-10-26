@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/fond_titre.png"
+hash = "cc324f63806b73d7d7e098b30c24d75e8d2da0c9a25bfb54574552b95010bc2b"
+
+[[files]]
 file = "config/fancymenu/assets/logo_pandore.png"
-hash = "17cf737fa389adb0de903be0ae21042d41713d5c15d87f9f4e81d61f70f40c6d"
+hash = "e15a37329da8f8340dcbe87f2cf83b11b0252baa5ad01f9e0e41d9a26383283f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -10,7 +14,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_pandore.txt"
-hash = "9b4dcab9ac275383bb0b3bf3bce4740a63bec6f5fb7aa03ba4f32536b677d131"
+hash = "274f9e9ac1f057f1723e2460df4c7f646c1fa043238de62cc2316de11530a36d"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -18,7 +22,7 @@ hash = "bea941c90623ce1e892bf5ed37af68e22b9b9d7d795e6a4832bcc7eaa1b1bb3e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "af768bd5167927bfd0b78cf58f612391ba13df7ba7cfde17bb1d2f8b8ea8dd3f"
+hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
 [[files]]
 file = "mods/adventurez.pw.toml"
@@ -111,6 +115,11 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "f68664a54cf9a1b87ba261f48d7ef7a34d99353871c874ce443bdece4eaa500e"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "5ae16a8a8189527ccd69d1dcf0ef8e684ce96ef1a062ce88fe94b12cd0fa48f0"
 metafile = true
@@ -126,6 +135,11 @@ hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "5b2241365555857a9878a938b6ee80210c02d4193468a58a253ae4c10b2b4762"
 metafile = true
@@ -138,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "8a8675e1edc03220d8cfd86100b6f2bc83a9a760c8f6164fcdceb223d838ea60"
 metafile = true
 
 [[files]]
@@ -171,8 +190,8 @@ hash = "6507abf4b8a62f88641ff236e708e940268844f3c717e4c799c4848077b2f0bf"
 metafile = true
 
 [[files]]
-file = "mods/loading-backgrounds.pw.toml"
-hash = "c032f06278da7daabb4bed00be435afba1f005842b01e68b744bc217cb771ac3"
+file = "mods/lootbeams.pw.toml"
+hash = "8a068e679cd6dcfe17c69ef50cbe2fbf7872f829143eb322827d83d3eae10b1b"
 metafile = true
 
 [[files]]
@@ -216,6 +235,11 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
+file = "mods/obscure-tooltips.pw.toml"
+hash = "d39fef58fc491a159205bc75aabd7d9a2bd0932198ef37a4229f0d18d4acc285"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "08c9f911dea69ae2e6449b1786931924bcdc08c471e548607eb1ee6f6bcf0e9d"
 metafile = true
@@ -226,8 +250,8 @@ hash = "60205890f80fa21429a7750c39176327e53fc79de8295a4e91712d6dd0022ea5"
 metafile = true
 
 [[files]]
-file = "mods/pandore-ressources-1.1.0.jar"
-hash = "94317afbe4a2d1651d3e940547711f9e2603ab2b62e4358a862d65c5dd146787"
+file = "mods/pandore-ressources-1.3.0.jar"
+hash = "933bff92cb32260fae34b12e48e77d7601427b1c2062b02ba39719719e79c352"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
@@ -237,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
 metafile = true
 
 [[files]]
@@ -385,11 +414,6 @@ hash = "73465bc3659e3a096d92ef591b7f039711c8d4a016169fb06f482dcd4a9862eb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/elderwood-gui.pw.toml"
-hash = "569e7173cde82e87bd2b53e239361189988426b198dbae7972b4574ac9323cd4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/medieval-loading-screens.pw.toml"
-hash = "183d6e673444e52ad7aa0a49cf7371bea51bc5e57c823b70e9a65e5499a8b58b"
+file = "resourcepacks/fancys-gui-overhaul.pw.toml"
+hash = "8c20025e76fb338bc72eb808b9c197f504801842f50d88de017117dcbb6ffacc"
 metafile = true

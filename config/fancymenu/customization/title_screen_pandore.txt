@@ -28,8 +28,8 @@ menu_background {
 menu_background {
   instance_identifier = fa0ceed6-0de6-4c4b-ab5e-170c40c03443-1786962767087
   background_type = image
-  show_background = false
-  image_path = [source:local]/config/fancymenu/assets/logo_pandore.png
+  show_background = true
+  image_path = [source:local]/config/fancymenu/assets/fond_titre.png
   slide = false
   repeat_texture = false
   parallax = false
@@ -357,10 +357,10 @@ element {
   auto_sizing_base_gui_height = 284
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -114
-  y = -105
-  width = 228
-  height = 78
+  x = -150
+  y = -95
+  width = 300
+  height = 66
   stay_on_screen = true
   element_loading_requirement_container_identifier = 2f0531ea-21bc-44ee-b5e8-c739fe15607a-1786963165802
   [loading_requirement_container_meta:2f0531ea-21bc-44ee-b5e8-c739fe15607a-1786963165802] = [groups:][instances:]
@@ -415,7 +415,7 @@ element {
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = ⚔ Partir à l'Aventure ⚔
+  label = §cPartir à l'Aventure
   navigatable = true
   widget_active_state_requirement_container_identifier = 8685ce71-c8bc-41df-8335-9759ad65dc87-1786964524385
   [loading_requirement_container_meta:8685ce71-c8bc-41df-8335-9759ad65dc87-1786964524385] = [groups:][instances:]
