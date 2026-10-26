@@ -25,6 +25,10 @@ file = "config/resourcepackoverrides.json"
 hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
 [[files]]
+file = "config/wover/client.json"
+hash = "aafacdeb1d07abdeb1e68977783df80e2fa2c96bd17c000b8fc6b45388398661"
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "e31a8eb626b7b2d5e97d7073021bd82c4bdcd26d006b3e1e7798133bffd11294"
 metafile = true
