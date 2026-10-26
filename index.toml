@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/logo_pandore.png"
+hash = "17cf737fa389adb0de903be0ae21042d41713d5c15d87f9f4e81d61f70f40c6d"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_pandore.txt"
+hash = "9b4dcab9ac275383bb0b3bf3bce4740a63bec6f5fb7aa03ba4f32536b677d131"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "bea941c90623ce1e892bf5ed37af68e22b9b9d7d795e6a4832bcc7eaa1b1bb3e"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "af768bd5167927bfd0b78cf58f612391ba13df7ba7cfde17bb1d2f8b8ea8dd3f"
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "e31a8eb626b7b2d5e97d7073021bd82c4bdcd26d006b3e1e7798133bffd11294"
 metafile = true
@@ -76,6 +96,11 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "87c989ac8ec56920741e98bb6f6811ef7533e5c6d50628d2143076542bc3e388"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
@@ -131,6 +156,11 @@ hash = "c8c880535eb8a185e6560333371866fdb0e7f42ab90c198daa4dcb29c6b6f430"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "c7179ae7024b7315c6ba5d02b632d99717db1185abab41b73dda556581ff3022"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
@@ -138,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "6507abf4b8a62f88641ff236e708e940268844f3c717e4c799c4848077b2f0bf"
+metafile = true
+
+[[files]]
+file = "mods/loading-backgrounds.pw.toml"
+hash = "c032f06278da7daabb4bed00be435afba1f005842b01e68b744bc217cb771ac3"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
 metafile = true
 
 [[files]]
@@ -186,8 +226,8 @@ hash = "60205890f80fa21429a7750c39176327e53fc79de8295a4e91712d6dd0022ea5"
 metafile = true
 
 [[files]]
-file = "mods/pandore-ressources-1.0.0.jar"
-hash = "e0297c9e1cd78718ebe6e62deb659e3f5ed3ca2718fe3ec3b31d2c029d0a6187"
+file = "mods/pandore-ressources-1.1.0.jar"
+hash = "94317afbe4a2d1651d3e940547711f9e2603ab2b62e4358a862d65c5dd146787"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
@@ -207,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "f93abb9c3f06dfa4ec25f9651487dfa23edbb358fde0cf17606f14cbfaf5db6c"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
@@ -337,4 +382,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "73465bc3659e3a096d92ef591b7f039711c8d4a016169fb06f482dcd4a9862eb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/elderwood-gui.pw.toml"
+hash = "569e7173cde82e87bd2b53e239361189988426b198dbae7972b4574ac9323cd4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/medieval-loading-screens.pw.toml"
+hash = "183d6e673444e52ad7aa0a49cf7371bea51bc5e57c823b70e9a65e5499a8b58b"
 metafile = true

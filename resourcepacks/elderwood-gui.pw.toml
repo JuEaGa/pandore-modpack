@@ -1,0 +1,13 @@
+name = "Elderwood GUI"
+filename = "elderwood-gui-4.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cDRKaYY6/versions/ath366Hy/elderwood-gui-4.1.0.zip"
+hash-format = "sha512"
+hash = "951bc665a4d6f019713e87b3ee82d9360e05792b4995c4f99df8e693dd0db14962a570dae2ffee0e94384d61121bde7bf493f136da9b91026deedc846694d6f2"
+
+[update]
+[update.modrinth]
+mod-id = "cDRKaYY6"
+version = "ath366Hy"

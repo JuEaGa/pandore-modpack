@@ -1,0 +1,13 @@
+name = "Medieval Loading Screens"
+filename = "loadingbackgrounds-medieval 8.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ha3as976/versions/SDY25pKw/loadingbackgrounds-medieval%208.0.zip"
+hash-format = "sha512"
+hash = "72742cd20840aaa7dc26cba5c3c3d64b02053d920cbf212bc0c8309e6f010e5da44d4fc7470ebc64e911d38e0ea043bd3a4b2260ebb26e239aa007a4fa4e7857"
+
+[update]
+[update.modrinth]
+mod-id = "ha3as976"
+version = "SDY25pKw"
