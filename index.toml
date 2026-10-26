@@ -250,8 +250,8 @@ hash = "60205890f80fa21429a7750c39176327e53fc79de8295a4e91712d6dd0022ea5"
 metafile = true
 
 [[files]]
-file = "mods/pandore-ressources-1.3.0.jar"
-hash = "933bff92cb32260fae34b12e48e77d7601427b1c2062b02ba39719719e79c352"
+file = "mods/pandore-ressources-1.3.1.jar"
+hash = "3784f06645b8286558fb25b32220378a37dded7fd714061dd034aaa09abee008"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
