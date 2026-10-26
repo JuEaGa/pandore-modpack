@@ -34,18 +34,8 @@ hash = "e31a8eb626b7b2d5e97d7073021bd82c4bdcd26d006b3e1e7798133bffd11294"
 metafile = true
 
 [[files]]
-file = "mods/archers.pw.toml"
-hash = "d086a47e8eb323fb34fd10b11874c2b294a588c070c1d8d1a504bf99e77ea333"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
-metafile = true
-
-[[files]]
-file = "mods/armor-model-api.pw.toml"
-hash = "805c36fc05736f2b8faeb17f4eb5f6f227502afe292c85d1c029f6edc950e694"
 metafile = true
 
 [[files]]
@@ -174,11 +164,6 @@ hash = "c47822bb681f5b6e24cc2d11d7961131079f6737d8483fa6fc1ef035f2120b48"
 metafile = true
 
 [[files]]
-file = "mods/jewelry.pw.toml"
-hash = "c8c880535eb8a185e6560333371866fdb0e7f42ab90c198daa4dcb29c6b6f430"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "c7179ae7024b7315c6ba5d02b632d99717db1185abab41b73dda556581ff3022"
 metafile = true
@@ -249,9 +234,8 @@ hash = "08c9f911dea69ae2e6449b1786931924bcdc08c471e548607eb1ee6f6bcf0e9d"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "60205890f80fa21429a7750c39176327e53fc79de8295a4e91712d6dd0022ea5"
-metafile = true
+file = "mods/pandore-1.0.0.jar"
+hash = "46672ddc1cb38bffb705f392bf7dd86c5f5832fcd0a33f6102ee72f4f603c8aa"
 
 [[files]]
 file = "mods/pandore-ressources-1.4.0.jar"
@@ -278,11 +262,6 @@ hash = "989cde9caba6f1b61aae36f9048725335a8da1d90ad33dc57a58ef3c04d6858b"
 metafile = true
 
 [[files]]
-file = "mods/ranged-weapon-api.pw.toml"
-hash = "f93abb9c3f06dfa4ec25f9651487dfa23edbb358fde0cf17606f14cbfaf5db6c"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
@@ -290,26 +269,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
-metafile = true
-
-[[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "6605965ee18be025eb9196b9d428590acdc18f731b2a9fcae040971c43200219"
-metafile = true
-
-[[files]]
-file = "mods/runes.pw.toml"
-hash = "d60b3658f12c9b394a023f6474e8a1452c1c44ec73853ba7850445418f8f66bb"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "e21c031845dcc1a21186d278be5f51f9b901b23da9661a227d8f38b27a92f340"
-metafile = true
-
-[[files]]
-file = "mods/simply-tooltips.pw.toml"
-hash = "e2319f2f3adf72a80c5af8f7eea1986424478d31e0970707f17701d397faaa1f"
 metafile = true
 
 [[files]]
@@ -323,21 +282,6 @@ hash = "50048120fc7deb3cd683e15ccadb91da64efc3710d66906c059230b5970ec10f"
 metafile = true
 
 [[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "63c1f96daf9cabc7176a5bb0a16fcf1cc0b41fcb0a427093a4da263dbae98741"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "7722a9dfc9d90ac909354489a4a40011e59b6b50cc1bed09f4ef533a3534b531"
-metafile = true
-
-[[files]]
-file = "mods/structure-pool-api.pw.toml"
-hash = "919153a4c85c7b33c97ac722d95b001c34903368880b144388c6d20cb77c19dc"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f1bfac1c5060b9e0ec9166de25bce8305d16dee48fb31583380567c37ee6b349"
 metafile = true
@@ -348,11 +292,6 @@ hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
-metafile = true
-
-[[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "db531d8064cc83585ff0a7efea222279d058a0ce1dcef51aeca6c4d8d9e177e9"
 metafile = true
@@ -360,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "1ff09a2c14154efcdd279c55e2f44ff647f69817a2fad5553c0829e35725c3d5"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "d197ab8efa476d9434906ebfea835786536ab2faa743524ae013305456f4c498"
 metafile = true
 
 [[files]]
