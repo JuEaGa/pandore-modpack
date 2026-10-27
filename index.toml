@@ -138,8 +138,8 @@ hash = "d39fef58fc491a159205bc75aabd7d9a2bd0932198ef37a4229f0d18d4acc285"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.7.0.jar"
-hash = "d1ebecf1b97443ff04eb7d4c205de7eb6a6fe4b20cb6adf2416367653ce7e4e3"
+file = "mods/pandore-1.8.0.jar"
+hash = "57709ccb21e6dbac28abd9d66df86a93e645407dd2c788a3130510560af3abe0"
 
 [[files]]
 file = "mods/pandore-ressources-1.4.0.jar"
@@ -168,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "63c1f96daf9cabc7176a5bb0a16fcf1cc0b41fcb0a427093a4da263dbae98741"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "7722a9dfc9d90ac909354489a4a40011e59b6b50cc1bed09f4ef533a3534b531"
 metafile = true
 
 [[files]]
