@@ -33,6 +33,11 @@ file = "config/resourcepackoverrides.json"
 hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "fd26bc20d42bbfe70f7043828590036224064406eecec6fa130058c2add97404"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -133,8 +138,8 @@ hash = "d39fef58fc491a159205bc75aabd7d9a2bd0932198ef37a4229f0d18d4acc285"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.5.0.jar"
-hash = "2396a4dadd372ae0fa16459f664b05a097ea543981b269d66524799cb987ccb8"
+file = "mods/pandore-1.6.0.jar"
+hash = "a4f2a242e9f16383eaf48f37e741cc5475bec9f2ceab5b000b1f93418f5a8f30"
 
 [[files]]
 file = "mods/pandore-ressources-1.4.0.jar"
@@ -143,6 +148,11 @@ hash = "1fae26306fd0f4a0d17ab4155a82927c69889b662c8d07668e00e7bd8e3787eb"
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
 
 [[files]]
