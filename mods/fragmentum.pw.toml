@@ -1,6 +1,6 @@
 name = "Fragmentum"
 filename = "fragmentum-5.4.0+1.21.1-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/49C5QgTK/versions/xaaQmZf2/fragmentum-5.4.0%2B1.21.1-fabric.jar"
