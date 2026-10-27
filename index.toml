@@ -21,6 +21,14 @@ file = "config/fancymenu/options.txt"
 hash = "bea941c90623ce1e892bf5ed37af68e22b9b9d7d795e6a4832bcc7eaa1b1bb3e"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/obscuria/obscure_tooltips-client.toml"
+hash = "c4b6a13375eaeeb4157e5124a8e19b3eaf5cc7ba37d1768be5be5a1537ad2798"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
@@ -125,8 +133,8 @@ hash = "d39fef58fc491a159205bc75aabd7d9a2bd0932198ef37a4229f0d18d4acc285"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.3.0.jar"
-hash = "f19a199a38a0f192f473b3138f7681083425c1a2a05430242e8165ff88ea865c"
+file = "mods/pandore-1.3.1.jar"
+hash = "5cca7432e7da9e642592c1c335c59be38a76bfd73e06e72f5c8f37dab5c98f65"
 
 [[files]]
 file = "mods/pandore-ressources-1.4.0.jar"
