@@ -222,12 +222,12 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.32.1.jar"
-hash = "ff87920141a18c4675646e284be9146386d497ad9151190de0092b0fc0b16f9c"
+file = "mods/pandore-1.32.2.jar"
+hash = "3141c93ad2e85c1cae8378e25b06df26213e2b8d9c438a22e9370dee289aabea"
 
 [[files]]
-file = "mods/pandore-ressources-1.7.0.jar"
-hash = "21327b44710948163e4b7da5a258ea12a9ce242ba0e5ad54571001c1fb9649d8"
+file = "mods/pandore-ressources-1.8.0.jar"
+hash = "73902686b3a1894382d74d2a036a86ad8f9c363f37c8811260e71eceda57ba74"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
