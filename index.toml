@@ -47,6 +47,11 @@ hash = "fd26bc20d42bbfe70f7043828590036224064406eecec6fa130058c2add97404"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "14f64df0e72502d7f3a375eb92061c904dc68f8f415e7591a6345ccc12cfaba2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -74,6 +79,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
@@ -152,8 +162,13 @@ hash = "d39fef58fc491a159205bc75aabd7d9a2bd0932198ef37a4229f0d18d4acc285"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.22.2.jar"
-hash = "2e126539f5f0265ffcfbc93074fb824b918ffa8f5f0ad3fba0dd07127a5e605d"
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
+metafile = true
+
+[[files]]
+file = "mods/pandore-1.23.0.jar"
+hash = "b6f7003f151dc016986eec864c7eedafcb024458cd073dd37d9cf07fb1922f18"
 
 [[files]]
 file = "mods/pandore-ressources-1.5.0.jar"
@@ -202,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "aef0da568a2f3f8e496842f924b928bb1271ca0f20c75f3c31297798c92f92ea"
 metafile = true
 
 [[files]]
