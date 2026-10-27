@@ -138,8 +138,8 @@ hash = "d39fef58fc491a159205bc75aabd7d9a2bd0932198ef37a4229f0d18d4acc285"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.6.0.jar"
-hash = "a4f2a242e9f16383eaf48f37e741cc5475bec9f2ceab5b000b1f93418f5a8f30"
+file = "mods/pandore-1.7.0.jar"
+hash = "d1ebecf1b97443ff04eb7d4c205de7eb6a6fe4b20cb6adf2416367653ce7e4e3"
 
 [[files]]
 file = "mods/pandore-ressources-1.4.0.jar"
@@ -168,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
