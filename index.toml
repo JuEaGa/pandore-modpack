@@ -21,6 +21,10 @@ file = "config/fancymenu/options.txt"
 hash = "bea941c90623ce1e892bf5ed37af68e22b9b9d7d795e6a4832bcc7eaa1b1bb3e"
 
 [[files]]
+file = "config/iris.properties"
+hash = "21292f067cddf39e900eb0d09d7da59fbe4bb6cbf16e0d5c4f1959e947a45080"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
@@ -33,6 +37,11 @@ file = "config/resourcepackoverrides.json"
 hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "fd26bc20d42bbfe70f7043828590036224064406eecec6fa130058c2add97404"
 metafile = true
@@ -40,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
 
 [[files]]
@@ -166,6 +180,11 @@ hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
@@ -193,4 +212,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancys-gui-overhaul.pw.toml"
 hash = "8c20025e76fb338bc72eb808b9c197f504801842f50d88de017117dcbb6ffacc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "1d892c58b3e1eede0f0380955b0e53bd6f55d5cbcefa4a6c15eae8d7924c0e26"
 metafile = true
