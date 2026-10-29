@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/assets/fond_titre.png"
-hash = "cc324f63806b73d7d7e098b30c24d75e8d2da0c9a25bfb54574552b95010bc2b"
+hash = "c13369c5d8156941583be7065f025251619da6d96da86cb09cb659a0bea1c5fe"
 
 [[files]]
 file = "config/fancymenu/assets/logo_pandore.png"
-hash = "96c8b0e7ea8f9127bded083a448ddaf0a3079484dd1358c781a1eeace1b4bfe2"
+hash = "74f0dee33fa07f00a2ff1a7f2ed59d7cc07e1e39b3aed48e13164187bfe8645c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -14,7 +14,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_pandore.txt"
-hash = "4d56c95cbfc0dfe95332b161731ad1ba34706bef3f4503da832fd54a89bc46d5"
+hash = "0126e9da1837e108b9a72aa34f1197d09301ecae0934455775dd59e24ec9cbd9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -197,7 +197,7 @@ hash = "437462c255c730d88f9751149d8106789859ba08f56208950bf822e0f78d4321"
 
 [[files]]
 file = "mods/pandore-ressources-1.11.0.jar"
-hash = "15622453d256b01cee9badfe4218547086ebd42195141b712ed60bcf725da919"
+hash = "cbdae08cffb95864713fcd2a20b92386aa798ef5daeb7c6cde106388c1ab3c71"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"

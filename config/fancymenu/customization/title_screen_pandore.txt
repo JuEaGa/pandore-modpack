@@ -286,14 +286,14 @@ decoration_overlay {
 decoration_overlay {
   overlay_type = fireflies
   instance_identifier = ad78826b-8e00-47f1-b2b4-2cd4a137bcaa-1786962767088
-  show_decoration_overlay = false
+  show_decoration_overlay = true
   firefly_group_density = 1.0
   firefly_group_amount = 1.0
   firefly_group_size = 1.0
   firefly_scale = 1.0
   firefly_follow_mouse = true
   firefly_landing = true
-  firefly_color_hex = #FFE08A
+  firefly_color_hex = #D6C6FF
 }
 
 decoration_overlay {
@@ -415,7 +415,7 @@ element {
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = §cPartir à l'Aventure
+  label = §d✦ Partir à l'Aventure ✦
   navigatable = true
   widget_active_state_requirement_container_identifier = 8685ce71-c8bc-41df-8335-9759ad65dc87-1786964524385
   [loading_requirement_container_meta:8685ce71-c8bc-41df-8335-9759ad65dc87-1786964524385] = [groups:][instances:]
