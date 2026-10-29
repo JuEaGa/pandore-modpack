@@ -29,6 +29,10 @@ file = "config/jade/jade.json"
 hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
+file = "config/jei/client/default/jei-client.ini"
+hash = "1f5693b9661544eea00200cd564d7247a2cdc9adbbce4677899224ad46776223"
+
+[[files]]
 file = "config/obscuria/obscure_tooltips-client.toml"
 hash = "c4b6a13375eaeeb4157e5124a8e19b3eaf5cc7ba37d1768be5be5a1537ad2798"
 
@@ -197,8 +201,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.55.0.jar"
-hash = "3cd78289bd28b8ccdb3f7fe7faddb4c6cd749c57172c3fa4c94bc14712a40693"
+file = "mods/pandore-1.55.1.jar"
+hash = "31af18073a70710392f7b972f2b8705c77b194b1b3500e6bc643a6db0e8d612d"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
