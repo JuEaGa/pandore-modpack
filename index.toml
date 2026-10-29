@@ -142,6 +142,11 @@ hash = "c7179ae7024b7315c6ba5d02b632d99717db1185abab41b73dda556581ff3022"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
@@ -192,8 +197,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.51.0.jar"
-hash = "8098248d7cdfddd33203a44a3aab09e4ea3b59c2772f18ce121f53a304846ab8"
+file = "mods/pandore-1.53.1.jar"
+hash = "7ef0a26192b5539f27354f0c951d27b0142518541788f76198ed6f833c7fba48"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
