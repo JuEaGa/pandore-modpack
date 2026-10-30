@@ -357,9 +357,9 @@ element {
   auto_sizing_base_gui_height = 284
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -150
+  x = -170
   y = -107
-  width = 300
+  width = 340
   height = 77
   stay_on_screen = true
   element_loading_requirement_container_identifier = 2f0531ea-21bc-44ee-b5e8-c739fe15607a-1786963165802
@@ -394,7 +394,7 @@ element {
   advanced_vertical_tilt_degrees = 0.0
   horizontal_tilt_degrees = 0.0
   advanced_horizontal_tilt_degrees = 0.0
-  source = [source:local]/config/fancymenu/assets/logo_pandore.png
+  source = [source:local]/config/fancymenu/assets/logo_pandore.apng
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
