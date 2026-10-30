@@ -6,7 +6,7 @@ hash = "c13369c5d8156941583be7065f025251619da6d96da86cb09cb659a0bea1c5fe"
 
 [[files]]
 file = "config/fancymenu/assets/logo_pandore.apng"
-hash = "183e1a5188954fee66bc5f5fc1a0a436dceffc48c0a51715205d86f870735a99"
+hash = "51b3ead17ffff207d43e18212dd90b601d1158cfd99eb95e89f6b5e3bc148e74"
 
 [[files]]
 file = "config/fancymenu/assets/logo_pandore.png"
@@ -252,8 +252,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.72.0.jar"
-hash = "b7a2f1b27a7769c916c8b8789b0066183d73f8d8a465c30d8de9e7955ff3ed52"
+file = "mods/pandore-1.72.1.jar"
+hash = "5bcdce8e49af6b2cafa532657666d151161442e23e9e10cea68a5d5510b94113"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
