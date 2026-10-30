@@ -26,7 +26,7 @@ hash = "21292f067cddf39e900eb0d09d7da59fbe4bb6cbf16e0d5c4f1959e947a45080"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+hash = "fe281f0f48e8b230f76898147e50b758a07c757a8c783f721d84865025f1feae"
 
 [[files]]
 file = "config/jei/client/default/jei-client.ini"
