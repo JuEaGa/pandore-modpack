@@ -41,6 +41,10 @@ file = "config/resourcepackoverrides.json"
 hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
 [[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "7f2cf7af3e2351c779f78d0d9152c132792c6b84f59dd88b126d4a0380e925a2"
+
+[[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "01ab4097e682140eb52a14823c63fec35e63f62ab2d7c3b34b6df71a3eee965e"
 
