@@ -1,0 +1,13 @@
+name = "Ender Zoology"
+filename = "EnderZoology-v21.1.4-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/1l0T9jm4/EnderZoology-v21.1.4-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "ace94ad5b96dd8c1189d41d5bdc134417aab28011d2d2d995a4e121ff0da661c1d1f12379552413dd45125b0a0551b1afd2d738be61216c2fffb874c93da42ba"
+
+[update]
+[update.modrinth]
+mod-id = "CUQhzQjg"
+version = "1l0T9jm4"

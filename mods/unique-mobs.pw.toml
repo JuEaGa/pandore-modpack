@@ -1,0 +1,13 @@
+name = "Spooki's Unique Mobs"
+filename = "spookis-unique-mobs-0.9.1.1+1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDJiv6Nj/versions/wJ7ycK2s/spookis-unique-mobs-0.9.1.1%2B1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "c2378077a96b6f77525d9ec83ca7d5fc388da0deb260e9b2063993bd3f06f83de6336d4c5a519ce4e92da7260630330b9bdab333c8b84513ff7c8de4121c60cf"
+
+[update]
+[update.modrinth]
+mod-id = "QDJiv6Nj"
+version = "wJ7ycK2s"
