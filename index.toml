@@ -79,8 +79,18 @@ hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "19fad0686ce50d6f894e70cfd3c1302624dd549c818f8ff021624730c0d273f1"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9097ec87434086c9a6ec3bdec9a25f65a4a6baefd7d37ab2a90a96e279550698"
+metafile = true
+
+[[files]]
+file = "mods/eternal-nether.pw.toml"
+hash = "a61f48a02513696c93bb0cc6fd1dc9c2a5c7ef2fb4f789dc6b9bc5df2c8a008d"
 metafile = true
 
 [[files]]
@@ -119,8 +129,18 @@ hash = "a97cad792e9d612bc0ff594dd42c1b74b338957c4a427b8c6f7d5006778e6f67"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "5ae16a8a8189527ccd69d1dcf0ef8e684ce96ef1a062ce88fe94b12cd0fa48f0"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "5b2241365555857a9878a938b6ee80210c02d4193468a58a253ae4c10b2b4762"
 metafile = true
 
 [[files]]
@@ -194,6 +214,11 @@ hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "5dc69d7e3b51af646f3506007cc0f2b98f587787959f959069c5211c0e5b6574"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
@@ -209,8 +234,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.63.1.jar"
-hash = "9bf1f2f4b8ab1f979de484408a502d014ae7ff9d2f3b25362b05d75f03f1366e"
+file = "mods/pandore-1.65.0.jar"
+hash = "18cbfbe798f3c719227b353833c74cafd9b492eb9da968d396cffc2aa77fa5a3"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
@@ -232,6 +257,11 @@ hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "989cde9caba6f1b61aae36f9048725335a8da1d90ad33dc57a58ef3c04d6858b"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "32a99883094c41dfa1cc3b2157adf37e3314688ecc98e055d9ed10fd18475e0a"
 metafile = true
@@ -239,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
@@ -284,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "db531d8064cc83585ff0a7efea222279d058a0ce1dcef51aeca6c4d8d9e177e9"
 metafile = true
 
 [[files]]
