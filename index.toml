@@ -45,6 +45,10 @@ file = "config/resourcepackoverrides.json"
 hash = "d6d105aa490fc49377b4a1226d7a8a6ef90000fadcf83c7bd1b6de00a076dc1f"
 
 [[files]]
+file = "config/spell_engine/weapon_fallback.json"
+hash = "f2b4829dfc268ce84abdb0ebc0c48ea2991fa9a2e5918237de33bbdbb611cfd3"
+
+[[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "7f2cf7af3e2351c779f78d0d9152c132792c6b84f59dd88b126d4a0380e925a2"
 
@@ -252,8 +256,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.88.0.jar"
-hash = "280a37f2bf070cc3eca6fe551a7a99b5547e8746e94520feeb0ecc878df8ad41"
+file = "mods/pandore-1.89.0.jar"
+hash = "b773c7c9cb1e22f47a4694ae1953f38eef24c9ed9a14e2a81ffeebdeec2df5a6"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
