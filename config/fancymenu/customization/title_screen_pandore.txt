@@ -409,7 +409,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 2690dcec-ba87-4d3c-a094-80ddc58d4367-1786964524385
-  [executable_action_instance:cd1d54b0-10bf-4bd3-8b56-65bf52502dcb-1786964703433][action_type:joinserver] = localhost:25566
+  [executable_action_instance:cd1d54b0-10bf-4bd3-8b56-65bf52502dcb-1786964703433][action_type:joinserver] = 95.216.99.177:25566
   [executable_block:2690dcec-ba87-4d3c-a094-80ddc58d4367-1786964524385][type:generic] = [executables:cd1d54b0-10bf-4bd3-8b56-65bf52502dcb-1786964703433;]
   underline_label_on_hover = false
   transparent_background = false
