@@ -53,7 +53,9 @@
           "settingOverrides": {
             "renderOrder": 6.0,
             "heightLimit": 2050.0,
-            "color": 15.0
+            "color": 15.0,
+            "icons": 2.0,
+            "iconScale": 1.0
           },
           "subCategories": [
             {

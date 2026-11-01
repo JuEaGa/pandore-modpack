@@ -50,7 +50,7 @@ hash = "f2b4829dfc268ce84abdb0ebc0c48ea2991fa9a2e5918237de33bbdbb611cfd3"
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "7f2cf7af3e2351c779f78d0d9152c132792c6b84f59dd88b126d4a0380e925a2"
+hash = "f6bffd8065ea57bec2e33249fb7894f1adb6564350053f1df67bd9c8e9825bf7"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
@@ -256,8 +256,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.90.2.jar"
-hash = "530ad80c6269599f64eee0f80690b0da37afbf0e64c1e7b9ec2219b677bdf78e"
+file = "mods/pandore-1.90.3.jar"
+hash = "61b8e1bfd193168b4402be03ffc1df389126c48a180e8094f35d4c8c3699b169"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
