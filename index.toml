@@ -256,8 +256,8 @@ hash = "f7a1855fb4490eb0217d45247eba010cefb9e5fa1bc8c6ed1970de4b05301fb8"
 metafile = true
 
 [[files]]
-file = "mods/pandore-1.97.8.jar"
-hash = "c9a2f3ee2814dca92b7f33df753fc0a03e4e4897843eb46e9084a2a0be4130cc"
+file = "mods/pandore-1.98.0.jar"
+hash = "77d25bb8171226875914b3b11d9387d5184d23b252dce6e8f3aff494e7444da5"
 
 [[files]]
 file = "mods/pandore-ressources-1.17.0.jar"
