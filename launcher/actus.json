@@ -1,18 +1,6 @@
 [
   {
-    "titre": "Le launcher se met à jour seul",
-    "texte": "Pas d'Elpis au milieu de cet écran ? Retélécharge le launcher sur le site, une dernière fois."
-  },
-  {
-    "titre": "Elpis, notre mascotte",
-    "texte": "Un éclat de lumière pure : son histoire est dans le lore, sur le site."
-  },
-  {
-    "titre": "Un tout nouveau tutoriel",
-    "texte": "Une île rien qu'à toi, 7 étapes, et Elpis pour te guider."
-  },
-  {
-    "titre": "Bâtis ta base au calme",
-    "texte": "Le monde Construction est plus tranquille : claim ton terrain (carte, touche M) et construis."
+    "titre": "Launcher obsolète",
+    "texte": "Télécharge le nouveau launcher sur jouer-pandore.fr, page Jouer, pour continuer à jouer."
   }
 ]

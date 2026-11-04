@@ -1,12 +1,14 @@
+# Ancienne adresse du modpack : les launchers d'avant la 0.2.6 s'arrêtent ici, avec ce message en guise d'erreur.
+# Le vrai modpack est sur la branche « jeu ».
 name = "Pandore"
 author = "JEG___"
-version = "0.1.0"
+version = "ancien launcher"
 pack-format = "packwiz:1.1.0"
 
 [index]
-file = "index.toml"
+file = "TELECHARGE LE NOUVEAU LAUNCHER SUR jouer-pandore.fr"
 hash-format = "sha256"
-hash = "f656af63b065a1e1c80fe43f96da4105ca329d55035ccbf19007aa0786addc0a"
+hash = "0000000000000000000000000000000000000000000000000000000000000000"
 
 [versions]
 fabric = "0.20.1"
