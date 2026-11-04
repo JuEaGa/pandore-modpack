@@ -1,5 +1,9 @@
 [
   {
+    "titre": "Le launcher se met à jour seul",
+    "texte": "Pas d'Elpis au milieu de cet écran ? Retélécharge le launcher sur le site, une dernière fois."
+  },
+  {
     "titre": "Elpis, notre mascotte",
     "texte": "Un éclat de lumière pure : son histoire est dans le lore, sur le site."
   },
@@ -10,9 +14,5 @@
   {
     "titre": "Bâtis ta base au calme",
     "texte": "Le monde Construction est plus tranquille : claim ton terrain (carte, touche M) et construis."
-  },
-  {
-    "titre": "15 retours offerts",
-    "texte": "Les nouveaux joueurs retrouvent 15 fois leurs affaires après une mort."
   }
 ]
